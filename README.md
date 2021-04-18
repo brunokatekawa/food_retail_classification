@@ -1,6 +1,6 @@
 # FoodExpress - Food Retailer
 
-## Targeting Customers for Marketing Stragery
+## Targeting Customers for Marketing Strategy
 
 ![](img/banner_title.png)
 
