@@ -31,7 +31,7 @@ There are plenty of other conversion actions people can take on a site, but this
 
 PS 1: All the references are stated at the end of this README.
 
-PS 2: You can find useful information at **section 1** of my [notebook](#).
+PS 2: You can find useful information at **section 1** of my [notebook](https://github.com/brunokatekawa/food_retail_classification/blob/main/01_iFood_Customer_Classification.ipynb).
 
 <br>
 
